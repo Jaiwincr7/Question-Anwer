@@ -1,0 +1,54 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    margin-left: 575px;
+    margin-top: 75px;
+    color: #112B3C;
+}
+.container{
+    padding: 10px;
+    margin: 10px;
+    width: 600px;
+    height: 60px;
+    font-size: 1.1rem;
+    background-color: azure;
+    font-family: 'Exo 2', sans-serif;
+    position: relative;
+    left: 400px;
+    font-weight: bold;
+    box-shadow: 3px 3px 7px grey;
+}
+.img1{
+    width: 30px;
+}
+hr{
+    position: relative;
+    bottom: 30px;
+}
+button{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 550px;
+    position: relative;
+    bottom: 50px;
+}
+.ans{
+    position: relative;
+    bottom: 20px;
+    display: none;
+}
+.anshr{
+    display: none;
+    border-top: none;
+    border: 0.5px solid #112B3C;
+}
+.img2{
+    width: 30px;
+    position: absolute;
+    bottom: 5px;
+    display: none;
+}
